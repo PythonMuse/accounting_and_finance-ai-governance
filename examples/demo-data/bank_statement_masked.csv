@@ -1,0 +1,10 @@
+date,description,reference,amount,direction
+2026-03-03,Beginning balance carried forward,BAL-OPEN,151200.00,balance
+2026-03-05,Customer receipt batch,DEP-0305-A,18500.00,credit
+2026-03-08,Vendor payment,CHK-2101,-6200.00,debit
+2026-03-12,Vendor payment,CHK-2102,-9450.00,debit
+2026-03-15,Customer receipt batch,DEP-0315-A,22300.00,credit
+2026-03-18,Bank service fee,BKF-0318,-100.00,debit
+2026-03-22,Vendor payment,CHK-2104,-7000.00,debit
+2026-03-27,Customer receipt batch,DEP-0327-A,10250.00,credit
+2026-03-31,Ending balance per statement,BAL-END,148250.00,balance

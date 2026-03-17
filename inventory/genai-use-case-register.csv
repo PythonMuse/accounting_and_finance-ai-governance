@@ -1,0 +1,4 @@
+use_case_id,process,description,owner,data_classification,ai_capability,risk_level,approval_status
+UC-001,Bank Reconciliation,AI assisted review of recon variance explanations,Controller,Masked Internal,Analysis,Medium,Approved
+UC-002,Flux Analysis,AI assisted generation of variance explanations,Controller,Internal Financial,Analysis,Medium,Pilot
+UC-003,Invoice Extraction,AI extraction of vendor invoice fields,AP Manager,Vendor Data,Data Processing,High,Proposed

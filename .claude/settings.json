@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./secrets/**)",
+      "Read(./payroll/**)",
+      "Bash(curl *)",
+      "Bash(wget *)"
+    ]
+  }
+}
